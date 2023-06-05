@@ -7,7 +7,7 @@ const _ = require("lodash");
 
 const app = express();
 
-mongoose.connect("mongodb://localhost:27017/todoDB");
+mongoose.connect("mongodb+srv://admin-aayush:Aayush_105@cluster0.eexvyx0.mongodb.net/todoDB");
 
 app.set("view engine", "ejs");
 
