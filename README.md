@@ -24,13 +24,14 @@ Follow these steps to install and run the application:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/todo-task-manager.git
+git clone https://github.com/aayush105/ToDoList-V2.git
+
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd todo-task-manager
+cd ToDoList-V2
 ```
 
 3. Install the dependencies:
