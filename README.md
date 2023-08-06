@@ -43,7 +43,7 @@ npm install
 4. Set up the MongoDB database:
 
    - Make sure MongoDB is running on your system.
-   - Update the MongoDB connection string in `config.js` to point to your MongoDB instance.
+   - Update the MongoDB connection string in `app.js` to point to your MongoDB instance.
 
 ## Usage
 
